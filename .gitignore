@@ -2,3 +2,5 @@
 *.py
 *.net
 *.txt
+
+!one.txt
